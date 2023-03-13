@@ -5,5 +5,5 @@ Web principal del equipo 20 de la asignatura Herramientas y Métodos de Ingenier
 
 Alejandro Tomás Soto Meca --> responsable + desarrollador --> 
 
-David Hernández Carmona --> 
+David Hernández Carmona --> desarrollador --> 
 
